@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 師子月佛本生經
+#+DATE: 2015-08-30 19:34:11.996029
+#+PROPERTY: JUAN 0
