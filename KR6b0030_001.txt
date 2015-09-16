@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:11.791632
+#+DATE: 2015-08-30 19:34:13.048657
 #+TITLE: 師子月佛本生經
 #+PROPERTY: CBETA_ID T03n0176
 #+PROPERTY: ID KR6b0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 176
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0030_T_000-0443c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0030_T_001-0443c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.176¶
-
- 佛說師子月佛本生經¶
+No. 176¶
+佛說師子月佛本生經¶
 ¶
 新為失譯人名附三秦錄¶
 
@@ -155,9 +154,8 @@ No.176¶
 #+END_VERSE
 」¶
 
-「時，阿羅漢說此偈已，默然無聲。獼猴天子言
-<pb:KR6b0030_T_001-0445a>¶
-曰：『大德！我前身時，作何罪業生獼猴中？復¶
+「時，阿羅漢說此偈已，默然無聲。獼猴天子言曰
+<pb:KR6b0030_T_001-0445a>：『大德！我前身時，作何罪業生獼猴中？復¶
 有何福，值遇大德，得免畜生，生於天上？』羅漢¶
 答言：『汝今諦聽！善思念之！乃往過去，此閻¶
 浮提有佛出世，名曰寶慧如來、應供、正遍知，¶
